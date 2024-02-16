@@ -1,0 +1,14 @@
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-4\bin\Debug\net7.0\HM_Slesson-4.exe
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-4\bin\Debug\net7.0\HM_Slesson-4.deps.json
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-4\bin\Debug\net7.0\HM_Slesson-4.runtimeconfig.json
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-4\bin\Debug\net7.0\HM_Slesson-4.dll
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-4\bin\Debug\net7.0\HM_Slesson-4.pdb
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-4\obj\Debug\net7.0\HM_Slesson-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-4\obj\Debug\net7.0\HM_Slesson-4.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-4\obj\Debug\net7.0\HM_Slesson-4.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-4\obj\Debug\net7.0\HM_Slesson-4.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-4\obj\Debug\net7.0\HM_Slesson-4.dll
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-4\obj\Debug\net7.0\refint\HM_Slesson-4.dll
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-4\obj\Debug\net7.0\HM_Slesson-4.pdb
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-4\obj\Debug\net7.0\HM_Slesson-4.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\TempForLearn\Знакомство с языками\HM_Slesson-4\obj\Debug\net7.0\ref\HM_Slesson-4.dll
